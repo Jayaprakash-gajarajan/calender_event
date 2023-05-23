@@ -1,4 +1,4 @@
-// the given project is i almost done but the edit will not work other thing it should be work
+// the given project was i almost done but the edit will not work other thing it should be work
 // you can create a multible event at the same time you can see in agenda also 
 import { Calender } from "./Calender";
 import "./styles.css";
@@ -7,7 +7,7 @@ import AppBar from '@mui/material/AppBar';
 import Toolbar from '@mui/material/Toolbar';
 import { Routes, Route, useNavigate} from "react-router-dom";
 import './App.css'
-import { useState } from "react";
+import { useState} from "react";
 import { MOCKAPPS } from "./conts";
 import EditIcon from '@mui/icons-material/Edit';
 import { IconButton } from "@mui/material";
